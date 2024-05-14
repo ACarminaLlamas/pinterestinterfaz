@@ -19,7 +19,7 @@ Se enfoca en replicar la apariencia visual de Pinteres, ofreciendo una experienc
 - **CSS3:** Para el diseño y el estilo, incluyendo _flesbox_ para un diseñ responsivo y efectos de _hover_.
 
 ### Vista Previa del Proyecto
-------------Pendiente------------
+![Demo](imagenes/pinterest_screen.JPG)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/carmina-llamas/).
