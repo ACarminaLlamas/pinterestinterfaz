@@ -22,4 +22,4 @@ Se enfoca en replicar la apariencia visual de Pinteres, ofreciendo una experienc
 ------------Pendiente------------
 
 ### Contacto
-Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/alma-c-llamas/).
+Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/carmina-llamas/).
